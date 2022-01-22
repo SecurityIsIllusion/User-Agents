@@ -381,6 +381,8 @@ RepoMonkey
 Ripper
 RocketCrawler
 Rogerbot
+Robot
+robot
 SBIder
 SEOkicks
 SEOkicks-Robot
@@ -684,6 +686,7 @@ awario
 DF Bot 1.0
 patchwatch
 l9plugin-ElasticSearchOpenPlugin
+l9plugin
 YandexNews
 yandex
 ds9 2.000.ec2
@@ -709,4 +712,5 @@ Watch
 15U70
 ScanSSH
 aria2
-l9plugin
+jndi
+ctx
